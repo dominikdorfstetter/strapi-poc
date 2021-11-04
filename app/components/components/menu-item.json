@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_menu_item_menu_items",
+  "info": {
+    "name": "menu-item",
+    "icon": "anchor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "textEN": {
+      "type": "string",
+      "required": true
+    },
+    "onlyAuthenticated": {
+      "type": "boolean"
+    },
+    "routeURL": {
+      "type": "string",
+      "required": true
+    },
+    "textDE": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
